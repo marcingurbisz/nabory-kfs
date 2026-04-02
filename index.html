@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monitor naborów KFS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">KFS · monitor naborów</p>
+      <div class="hero-grid">
+        <section>
+          <h1>Monitor naborów KFS bez pośredników</h1>
+          <p class="hero-copy">
+            Statyczny podgląd danych z crawlera PUP. Widok jest gotowy do publikacji w GitHub Pages
+            i czyta dane bezpośrednio z pliku JSON wygenerowanego przez build.
+          </p>
+        </section>
+        <aside class="hero-note">
+          <p class="hero-note-label">Model publikacji</p>
+          <p>Dane z pliku, bez bazy. Workflow uruchamia crawler, tworzy JSON i publikuje gotową stronę.</p>
+        </aside>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary" aria-label="Podsumowanie">
+        <article class="metric-card accent-active">
+          <span class="metric-label">Aktywne</span>
+          <strong id="metric-active">0</strong>
+        </article>
+        <article class="metric-card accent-upcoming">
+          <span class="metric-label">Planowane</span>
+          <strong id="metric-upcoming">0</strong>
+        </article>
+        <article class="metric-card accent-total">
+          <span class="metric-label">Łącznie</span>
+          <strong id="metric-total">0</strong>
+        </article>
+        <article class="metric-card accent-woj">
+          <span class="metric-label">Województwa</span>
+          <strong id="metric-woj">0</strong>
+        </article>
+      </section>
+
+      <section class="toolbar" aria-label="Filtry i informacje">
+        <div class="toolbar-meta">
+          <p class="meta-label">Ostatnie wygenerowanie</p>
+          <p id="generated-at">Ładowanie…</p>
+        </div>
+        <div class="filters">
+          <label>
+            <span>Szukaj</span>
+            <input id="search-input" type="search" placeholder="np. Kielce, śląskie, rezerwowy">
+          </label>
+          <label>
+            <span>Województwo</span>
+            <select id="woj-filter">
+              <option value="">Wszystkie</option>
+            </select>
+          </label>
+          <label>
+            <span>Status</span>
+            <select id="status-filter">
+              <option value="">Wszystkie</option>
+              <option value="active">Aktywne</option>
+              <option value="upcoming">Planowane</option>
+              <option value="past">Zakończone</option>
+            </select>
+          </label>
+          <label>
+            <span>Sortowanie</span>
+            <select id="sort-filter">
+              <option value="status">Status i data</option>
+              <option value="date-asc">Data od rosnąco</option>
+              <option value="date-desc">Data od malejąco</option>
+              <option value="place-asc">Siedziba A-Z</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="results">
+        <div class="results-header">
+          <h2>Lista naborów</h2>
+          <p id="results-count">0 rekordów</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Powiat</th>
+                <th>Woj.</th>
+                <th>Kontakt</th>
+                <th>Od</th>
+                <th>Do</th>
+                <th>Typ</th>
+                <th>Status</th>
+                <th>Źródło</th>
+              </tr>
+            </thead>
+            <tbody id="results-body"></tbody>
+          </table>
+        </div>
+        <div id="empty-state" class="empty-state" hidden>
+          <h3>Brak wyników dla aktualnych filtrów</h3>
+          <p>Wyczyść wyszukiwanie albo zmień status, żeby zobaczyć inne nabory.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <template id="row-template">
+    <tr>
+      <td data-column="place"></td>
+      <td data-column="woj"></td>
+      <td data-column="contact"></td>
+      <td data-column="from"></td>
+      <td data-column="to"></td>
+      <td data-column="type"></td>
+      <td data-column="status"></td>
+      <td data-column="link"></td>
+    </tr>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>

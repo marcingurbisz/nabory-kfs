@@ -1,0 +1,9 @@
+{
+  "files": [
+    ".mirror-state.json",
+    "app.js",
+    "data/nabory.json",
+    "index.html",
+    "styles.css"
+  ]
+}
