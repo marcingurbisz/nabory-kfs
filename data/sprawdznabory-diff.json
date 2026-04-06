@@ -1,0 +1,2187 @@
+{
+  "generated_at": "2026-04-06T21:10:55",
+  "our_total": 162,
+  "reference_total": 168,
+  "shared_host_date_total": 143,
+  "exact_url_overlap_total": 87,
+  "only_in_our_data": [
+    {
+      "host": "choszczno.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-14",
+      "woj": "zachodniopomorskie",
+      "siedziba": "Choszczno",
+      "powiat": "choszczeński",
+      "url": "https://choszczno.praca.gov.pl/-/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "inowroclaw.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "woj": "kujawsko-pomorskie",
+      "siedziba": "Inowrocław",
+      "powiat": "inowrocławski",
+      "url": "https://inowroclaw.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/uwaga-wkrotce-nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-na-finansowanie-ksztalcenia-ustawicznego-w-2026-r.-spelniajacych-priorytety-wydatkowania?p_r_p_assetEntryId=61557263",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "minskmazowiecki.praca.gov.pl",
+      "nabor_od": "2026-04-02",
+      "nabor_do": "2026-04-10",
+      "woj": "mazowieckie",
+      "siedziba": "Mińsk Maz.",
+      "powiat": "miński",
+      "url": "https://minskmazowiecki.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/25748124-informacja-zbiorcza-o-prowadzonych-przez-powiatowy-urzad-pracy-w-minsku-mazowieckim-naborach-wnioskow-skierowanych-do-pracodawcow-osob-bezrob?p_r_p_assetEntryId=25748135",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "minskmazowiecki.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-10",
+      "woj": "mazowieckie",
+      "siedziba": "Mińsk Maz.",
+      "powiat": "miński",
+      "url": "https://minskmazowiecki.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/25748124-informacja-zbiorcza-o-prowadzonych-przez-powiatowy-urzad-pracy-w-minsku-mazowieckim-naborach-wnioskow-skierowanych-do-pracodawcow-osob-bezrob?p_r_p_assetEntryId=25748135",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "minskmazowiecki.praca.gov.pl",
+      "nabor_od": "2026-04-22",
+      "nabor_do": "2026-04-28",
+      "woj": "mazowieckie",
+      "siedziba": "Mińsk Maz.",
+      "powiat": "miński",
+      "url": "https://minskmazowiecki.praca.gov.pl/dla-pracodawcow-i-przedsiebiorcow/podnoszenie-kompetencji-i-kwalifikacji-pracownikow-i-kandydatow-do-pracy/krajowy-fundusz-szkoleniowy/-/asset_publisher/kfQIA8OcInMo/content/55453-krajowy-fundusz-szkoleniowy/10240",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "nisko.praca.gov.pl",
+      "nabor_od": "2026-04-02",
+      "nabor_do": "2026-04-09",
+      "woj": "podkarpackie",
+      "siedziba": "Nisko",
+      "powiat": "niżański",
+      "url": "https://nisko.praca.gov.pl/strona-glowna/-/asset_publisher/xJvT0B4ja1K3/content/20883782-programy-rynku-pracy-i-ksztalcenie-ustawiczne-w-2023-roku?p_r_p_assetEntryId=20883786&redirect=https%3A%2F%2Fnisko.praca.gov.pl%2Fstrona-glowna%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_xJvT0B4ja1K3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "nisko.praca.gov.pl",
+      "nabor_od": "2026-04-09",
+      "nabor_do": "2026-04-10",
+      "woj": "podkarpackie",
+      "siedziba": "Nisko",
+      "powiat": "niżański",
+      "url": "https://nisko.praca.gov.pl/-/zaproszenie-na-spotkania-informacyjne-dotyczace-zasad-finansowania-ksztalcenia-ustawicznego-ze-srodkow-krajowego-funduszu-szkoleniowego-w-2026-roku.",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "proszowice.praca.gov.pl",
+      "nabor_od": "2026-03-01",
+      "nabor_do": "2027-06-30",
+      "woj": "małopolskie",
+      "siedziba": "Proszowice",
+      "powiat": "proszowicki",
+      "url": "https://proszowice.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-na-finansowanie-ksztalcenia-ustawicznego-w-ramach-krajowego-funduszu-szkoleniowego-1?p_r_p_assetEntryId=44348446",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "pruszkow.praca.gov.pl",
+      "nabor_od": "2026-08-30",
+      "nabor_do": "2026-10-15",
+      "woj": "mazowieckie",
+      "siedziba": "Pruszków",
+      "powiat": "pruszkowski",
+      "url": "https://pruszkow.praca.gov.pl/strona-glowna/-/asset_publisher/6utRDu1650Nt/content/krajowy-fundusz-szkoleniowy-nabor-wnioskow?p_r_p_assetEntryId=60057172",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "przemysl.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-17",
+      "woj": "podkarpackie",
+      "siedziba": "Przemyśl",
+      "powiat": "przemyski",
+      "url": "https://przemysl.praca.gov.pl/strona-glowna/-/asset_publisher/1vCsJBiwSO6s/content/nabor-wnioskow-o-przyznanie-bonu-na-ksztalcenie-ustawiczne?p_r_p_assetEntryId=61188736",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "rawicz.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-15",
+      "woj": "wielkopolskie",
+      "siedziba": "Rawicz",
+      "powiat": "rawicki",
+      "url": "https://rawicz.praca.gov.pl/documents/3731195/0/Nab%C3%B3r+wniosk%C3%B3w+z+KFS+%281%29.pdf/eaa5be0a-c631-006c-e7d8-c01a49acdfee?t=1774442655132",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "srodawielkopolska.praca.gov.pl",
+      "nabor_od": "2026-04-06",
+      "nabor_do": "2026-05-28",
+      "woj": "wielkopolskie",
+      "siedziba": "Środa Wlkp.",
+      "powiat": "średzki",
+      "url": "https://srodawielkopolska.praca.gov.pl/documents/2823779/60903680/Nab%C3%B3r+wniosk%C3%B3w+z+KFS+2026.pdf/78c556fe-4282-5714-0d04-6e46812a96b5?t=1774013289995",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "stalowawola.praca.gov.pl",
+      "nabor_od": "2026-03-31",
+      "nabor_do": "2026-04-07",
+      "woj": "podkarpackie",
+      "siedziba": "Stalowa Wola",
+      "powiat": "stalowowolski",
+      "url": "https://stalowawola.praca.gov.pl/strona-glowna?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MSTnz5n8tzLW&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_r_p_assetEntryId=61401406&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MSTnz5n8tzLW_redirect=%2Fstrona-glowna%2F-%2Fasset_publisher%2Fvsf5pKFkaew9%2Fcontent%2Fnabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-na-finansowanie-kosztow-ksztalcenia-ustawicznego-20260331%3Fp_r_p_assetEntryId%3D61401406&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MSTnz5n8tzLW_delta=5&p_r_p_resetCur=false&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MSTnz5n8tzLW_cur=5",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "starachowice.praca.gov.pl",
+      "nabor_od": "2026-03-26",
+      "nabor_do": "2026-04-13",
+      "woj": "świętokrzyskie",
+      "siedziba": "Starachowice",
+      "powiat": "starachowicki",
+      "url": "https://starachowice.praca.gov.pl/strona-glowna/-/asset_publisher/cLZFuv0qFgdS/content/kounikat-ws.-naboru-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61144769",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "strzelcekrajenskie.praca.gov.pl",
+      "nabor_od": "2026-03-16",
+      "nabor_do": "2026-04-07",
+      "woj": "lubuskie",
+      "siedziba": "Strzelce Krajeńskie",
+      "powiat": "strzelecko-drezdenecki",
+      "url": "https://strzelcekrajenskie.praca.gov.pl/aktualnosci-kfs-z-pup",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "tarnow.praca.gov.pl",
+      "nabor_od": "2026-03-30",
+      "nabor_do": "2026-04-20",
+      "woj": "małopolskie",
+      "siedziba": "Tarnów",
+      "powiat": "m. Tarnów",
+      "url": "https://tarnow.praca.gov.pl/-/aktualnie-trwajace-nabory-wnioskow-na-formy-pomocy",
+      "status": "active",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "tarnow.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-05-22",
+      "woj": "małopolskie",
+      "siedziba": "Tarnów",
+      "powiat": "m. Tarnów",
+      "url": "https://tarnow.praca.gov.pl/-/aktualnie-trwajace-nabory-wnioskow-na-formy-pomocy",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    },
+    {
+      "host": "tarnow.praca.gov.pl",
+      "nabor_od": "2026-06-08",
+      "nabor_do": "2026-06-30",
+      "woj": "małopolskie",
+      "siedziba": "Tarnów",
+      "powiat": "m. Tarnów",
+      "url": "https://tarnow.praca.gov.pl/-/aktualnie-trwajace-nabory-wnioskow-na-formy-pomocy",
+      "status": "upcoming",
+      "typ_naboru": "podstawowy"
+    }
+  ],
+  "only_in_reference": [
+    {
+      "host": "bedzin.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "woj": "śląskie",
+      "operator": "Powiatowy Urząd Pracy w Będzinie",
+      "url": "https://bedzin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-krajowy-fundusz-szkoleniowy?p_r_p_assetEntryId=61311441",
+      "added_at": "2026-03-31 08:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "dabrowatarnowska.praca.gov.pl",
+      "nabor_od": "2026-03-24",
+      "nabor_do": "2026-04-07",
+      "woj": "małopolskie",
+      "operator": "Powiatowy Urząd Pracy w Dąbrowie Tarnowskiej",
+      "url": "https://dabrowatarnowska.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=60393522",
+      "added_at": "2026-03-13 08:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "golub-dobrzyn.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "woj": "kujawsko-pomorskie",
+      "operator": "Powiatowy Urząd Pracy w Golubiu-Dobrzyniu",
+      "url": "https://golub-dobrzyn.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61591241",
+      "added_at": "2026-04-03 13:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "kartuzy.praca.gov.pl",
+      "nabor_od": "2026-06-15",
+      "nabor_do": "2026-06-19",
+      "woj": "pomorskie",
+      "operator": "Powiatowy Urząd Pracy w Kartuzach",
+      "url": "https://kartuzy.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=60055921",
+      "added_at": "2026-03-05 08:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "kartuzy.praca.gov.pl",
+      "nabor_od": "2026-08-31",
+      "nabor_do": "2026-09-04",
+      "woj": "pomorskie",
+      "operator": "Powiatowy Urząd Pracy w Kartuzach",
+      "url": "https://kartuzy.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=60055921",
+      "added_at": "2026-03-05 08:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "lask.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "woj": "łódzkie",
+      "operator": "Powiatowy Urząd Pracy w Łasku",
+      "url": "https://lask.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/krajowy-fundusz-szkoleniowy-przygotowanie-do-naboru-?p_r_p_assetEntryId=61563974",
+      "added_at": "2026-04-03 09:17",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "leczyca.praca.gov.pl",
+      "nabor_od": "2026-04-03",
+      "nabor_do": "2026-04-10",
+      "woj": "łódzkie",
+      "operator": "Powiatowy Urząd Pracy w Łęczycy",
+      "url": "https://leczyca.praca.gov.pl/-/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego",
+      "added_at": "2026-03-19 18:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "lowicz.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-21",
+      "woj": "łódzkie",
+      "operator": "Powiatowy Urząd Pracy w Łowiczu",
+      "url": "https://lowicz.praca.gov.pl/-/nabor-wnioskow-kfs-w-2026",
+      "added_at": "2026-03-20 14:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "lublin.praca.gov.pl",
+      "nabor_od": "2026-03-30",
+      "nabor_do": "2026-04-10",
+      "woj": "lubelskie",
+      "operator": "Powiatowy Urząd Pracy w Lublinie",
+      "url": "https://lublin.praca.gov.pl/-/nabor-wnioskow-na-szkolenia-i-studia-podyplomowe-ze-srodkow-kfs",
+      "added_at": "2026-03-16 08:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "myszkow.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-13",
+      "woj": "śląskie",
+      "operator": "Powiatowy Urząd Pracy w Myszkowie",
+      "url": "https://myszkow.praca.gov.pl/-/i-nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego",
+      "added_at": "2026-03-23 09:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "olawa.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-14",
+      "woj": "dolnośląskie",
+      "operator": "Powiatowy Urząd Pracy w Oławie",
+      "url": "https://olawa.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=60887192",
+      "added_at": "2026-03-20 14:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "ostrowmazowiecka.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "woj": "mazowieckie",
+      "operator": "Powiatowy Urząd Pracy w Ostrowi Mazowieckiej",
+      "url": "https://ostrowmazowiecka.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/i-nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=61568305",
+      "added_at": "2026-04-03 09:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "przeworsk.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-14",
+      "woj": "podkarpackie",
+      "operator": "Powiatowy Urząd Pracy w Przeworsku",
+      "url": "https://przeworsk.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/powiatowy-urzad-pracy-w-przeworsku-oglasza-nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-ksztalcenia-ustawicznego-1?p_r_p_assetEntryId=60998644",
+      "added_at": "2026-03-23 18:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "puck.praca.gov.pl",
+      "nabor_od": "2026-05-06",
+      "nabor_do": "2026-05-12",
+      "woj": "pomorskie",
+      "operator": "Powiatowy Urząd Pracy w Pucku",
+      "url": "https://puck.praca.gov.pl/strona-glowna/-/asset_publisher/0rWgaqHtdDwD/content/krajowy-fundusz-szkoleniowy-2026?p_r_p_assetEntryId=56694807",
+      "added_at": "2026-01-22 07:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "puck.praca.gov.pl",
+      "nabor_od": "2026-06-22",
+      "nabor_do": "2026-06-26",
+      "woj": "pomorskie",
+      "operator": "Powiatowy Urząd Pracy w Pucku",
+      "url": "https://puck.praca.gov.pl/strona-glowna/-/asset_publisher/0rWgaqHtdDwD/content/krajowy-fundusz-szkoleniowy-2026?p_r_p_assetEntryId=56694807",
+      "added_at": "2026-01-22 07:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "rawicz.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-14",
+      "woj": "wielkopolskie",
+      "operator": "Powiatowy Urząd Pracy w Rawiczu",
+      "url": "https://rawicz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-na-wspomaganie-podmiotow-inwestujacych-w-ksztalcenie-ustawiczne-osob-pracujacych.?p_r_p_assetEntryId=60983745",
+      "added_at": "2026-03-23 18:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "starachowice.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "woj": "świętokrzyskie",
+      "operator": "Powiatowy Urząd Pracy w Starachowicach",
+      "url": "https://starachowice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/kounikat-ws.-naboru-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61144769",
+      "added_at": "2026-03-26 12:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "supnowysacz.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "woj": "małopolskie",
+      "operator": "Sądecki Urząd Pracy",
+      "url": "https://supnowysacz.praca.gov.pl/-/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-ksztalcenia-ustawicznego-w-2026-r.",
+      "added_at": "2026-04-03 09:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "torun.praca.gov.pl",
+      "nabor_od": "2026-04-01",
+      "nabor_do": "2026-04-15",
+      "woj": "kujawsko-pomorskie",
+      "operator": "Powiatowy Urząd Pracy dla Powiatu Toruńskiego",
+      "url": "https://torun.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-informacyjne-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-kfs-na-sfinansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=60418412",
+      "added_at": "2026-03-17 12:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "wegorzewo.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-14",
+      "woj": "warmińsko-mazurskie",
+      "operator": "Powiatowy Urząd Pracy w Węgorzewie",
+      "url": "https://wegorzewo.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=60624852",
+      "added_at": "2026-03-18 08:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "wlodawa.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-13",
+      "woj": "lubelskie",
+      "operator": "Powiatowy Urząd Pracy we Włodawie",
+      "url": "https://wlodawa.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/i-nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-1?p_r_p_assetEntryId=60897060",
+      "added_at": "2026-03-20 15:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "zakopane.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-22",
+      "woj": "małopolskie",
+      "operator": "Powiatowy Urząd Pracy w Zakopanem",
+      "url": "https://zakopane.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/https-zakopane.praca.gov.pl-strona-glowna-urzedu-asset_publisher-ndselr6szr3n-content-krajowy-fundusz-szkoleniowy_-p_r_p_assetentryid-61191286?p_r_p_assetEntryId=61191286",
+      "added_at": "2026-03-27 12:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "zary.praca.gov.pl",
+      "nabor_od": "2026-04-03",
+      "nabor_do": "2026-04-13",
+      "woj": "lubuskie",
+      "operator": "Powiatowy Urząd Pracy w Żarach",
+      "url": "https://zary.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=60830514",
+      "added_at": "2026-03-19 18:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "zuromin.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-17",
+      "woj": "mazowieckie",
+      "operator": "Powiatowy Urząd Pracy w Żurominie",
+      "url": "https://zuromin.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-kfs-na-sfinansowanie-kosztow-ksztalcenia-ustawicznego.",
+      "added_at": "2026-03-16 15:00",
+      "barometr": "WOJ POW"
+    },
+    {
+      "host": "zwolen.praca.gov.pl",
+      "nabor_od": "2026-04-09",
+      "nabor_do": "2026-04-15",
+      "woj": "mazowieckie",
+      "operator": "Powiatowy Urząd Pracy w Zwoleniu",
+      "url": "https://zwolen.praca.gov.pl/-/informacja-o-naborze-wnioskow-o-przyznanie-srodkow-z-kfs-2025-i-tura-skopiuj-",
+      "added_at": "2026-03-30 08:00",
+      "barometr": "WOJ POW"
+    }
+  ],
+  "shared_host_date_different_url": [
+    {
+      "host": "aleksandrowkujawski.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "our_records": [
+        {
+          "host": "aleksandrowkujawski.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "kujawsko-pomorskie",
+          "siedziba": "Aleksandrów Kuj.",
+          "powiat": "aleksandrowski",
+          "url": "https://aleksandrowkujawski.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61551096",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "aleksandrowkujawski.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "kujawsko-pomorskie",
+          "operator": "Powiatowy Urząd Pracy w Aleksandrowie Kujawskim",
+          "url": "https://aleksandrowkujawski.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61551096",
+          "added_at": "2026-04-03 09:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "bialapodlaska.praca.gov.pl",
+      "nabor_od": "2026-04-15",
+      "nabor_do": "2026-04-21",
+      "our_records": [
+        {
+          "host": "bialapodlaska.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-21",
+          "woj": "lubelskie",
+          "siedziba": "Biała Podlaska",
+          "powiat": "bialski",
+          "url": "https://bialapodlaska.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/krajowy-fundusz-szkoleniowy-2026r.-i-nabor-?p_r_p_assetEntryId=61199065",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "bialapodlaska.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-21",
+          "woj": "lubelskie",
+          "operator": "Powiatowy Urząd Pracy w Białej Podlaskiej",
+          "url": "https://bialapodlaska.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/krajowy-fundusz-szkoleniowy-2026r.-i-nabor-?p_r_p_assetEntryId=61199065",
+          "added_at": "2026-03-27 12:00",
+          "barometr": "WOJ POW MST"
+        }
+      ]
+    },
+    {
+      "host": "brzeg.praca.gov.pl",
+      "nabor_od": "2026-04-09",
+      "nabor_do": "2026-04-15",
+      "our_records": [
+        {
+          "host": "brzeg.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-15",
+          "woj": "opolskie",
+          "siedziba": "Brzeg",
+          "powiat": "brzeski",
+          "url": "https://brzeg.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-na-srodki-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61055068#trescStart",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "brzeg.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-15",
+          "woj": "opolskie",
+          "operator": "Powiatowy Urząd Pracy w Brzegu",
+          "url": "https://brzeg.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-na-srodki-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61055068",
+          "added_at": "2026-03-24 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "brzesko.praca.gov.pl",
+      "nabor_od": "2026-04-09",
+      "nabor_do": "2026-04-15",
+      "our_records": [
+        {
+          "host": "brzesko.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-15",
+          "woj": "małopolskie",
+          "siedziba": "Brzesko",
+          "powiat": "brzeski",
+          "url": "https://brzesko.praca.gov.pl/-/terminarz-naborow-wnioskow-2026-rok",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "brzesko.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-15",
+          "woj": "małopolskie",
+          "operator": "Powiatowy Urząd Pracy w Brzesku",
+          "url": "https://brzesko.praca.gov.pl/-/informacja-o-naborze-wnioskow-o-przyznanie-srodkow-kfs",
+          "added_at": "2026-03-25 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "brzeziny.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-15",
+      "our_records": [
+        {
+          "host": "brzeziny.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-15",
+          "woj": "łódzkie",
+          "siedziba": "Brzeziny",
+          "powiat": "brzeziński",
+          "url": "https://brzeziny.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/krajowy-fundusz-szkoleniowy-1?p_r_p_assetEntryId=61003052",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "brzeziny.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-15",
+          "woj": "łódzkie",
+          "operator": "Powiatowy Urząd Pracy w Brzezinach",
+          "url": "https://brzeziny.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/krajowy-fundusz-szkoleniowy-1?p_r_p_assetEntryId=61003052",
+          "added_at": "2026-03-23 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "brzozow.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "brzozow.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "podkarpackie",
+          "siedziba": "Brzozów",
+          "powiat": "brzozowski",
+          "url": "https://brzozow.praca.gov.pl/strona-glowna/-/asset_publisher/4hIHgF4sAIut/content/nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-10?p_r_p_assetEntryId=61450829",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "brzozow.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "podkarpackie",
+          "operator": "Powiatowy Urząd Pracy w Brzozowie",
+          "url": "https://brzozow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-10?p_r_p_assetEntryId=61450829",
+          "added_at": "2026-04-01 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "busko.praca.gov.pl",
+      "nabor_od": "2026-04-17",
+      "nabor_do": "2026-04-24",
+      "our_records": [
+        {
+          "host": "busko.praca.gov.pl",
+          "nabor_od": "2026-04-17",
+          "nabor_do": "2026-04-24",
+          "woj": "świętokrzyskie",
+          "siedziba": "Busko-Zdrój",
+          "powiat": "buski",
+          "url": "https://busko.praca.gov.pl/documents/2126013/0/00+Og%C5%82oszenie+naboru+wniosk%C3%B3w+KFS.pdf/a7eee36b-c3d6-32c7-04da-d81e3e57beaa?t=1775027860188",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "busko.praca.gov.pl",
+          "nabor_od": "2026-04-17",
+          "nabor_do": "2026-04-24",
+          "woj": "świętokrzyskie",
+          "operator": "Powiatowy Urząd Pracy w Busku-Zdroju",
+          "url": "https://busko.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-o-srodki-kfs2026?p_r_p_assetEntryId=61446454",
+          "added_at": "2026-04-01 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "bydgoszcz.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "bydgoszcz.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-17",
+          "woj": "kujawsko-pomorskie",
+          "siedziba": "Bydgoszcz",
+          "powiat": "m. Bydgoszcz",
+          "url": "https://bydgoszcz.praca.gov.pl/-/1040553-dokumenty-do-pobrania-przy-ubieganiu-sie-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-na-sfinansowanie-kosztow-ksztalcenia-ustawicz",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "bydgoszcz.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-17",
+          "woj": "kujawsko-pomorskie",
+          "operator": "Powiatowy Urząd Pracy w Bydgoszczy",
+          "url": "https://bydgoszcz.praca.gov.pl/-/nabor-wnioskow-o-finansowanie-ksztalcenia-z-kfs-33",
+          "added_at": "2026-03-23 18:00",
+          "barometr": "WOJ POW MST"
+        }
+      ]
+    },
+    {
+      "host": "bytow.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-14",
+      "our_records": [
+        {
+          "host": "bytow.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "pomorskie",
+          "siedziba": "Bytów",
+          "powiat": "bytowski",
+          "url": "https://bytow.praca.gov.pl/strona-glowna/-/asset_publisher/pK5V56QBswhr/content/powiatowy-urzad-pracy-w-bytowie-oglasza-i-nabor-wnioskow-o-przyznanie-srodkow-z-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=61006072",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "bytow.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "pomorskie",
+          "operator": "Powiatowy Urząd Pracy w Bytowie",
+          "url": "https://bytow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/powiatowy-urzad-pracy-w-bytowie-oglasza-i-nabor-wnioskow-o-przyznanie-srodkow-z-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=61006072",
+          "added_at": "2026-03-23 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "chodziez.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "chodziez.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "wielkopolskie",
+          "siedziba": "Chodzież",
+          "powiat": "chodzieski",
+          "url": "https://chodziez.praca.gov.pl/strona-glowna/-/asset_publisher/j98qnF2XlOID/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-2026?p_r_p_assetEntryId=61054729",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "chodziez.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "wielkopolskie",
+          "operator": "Powiatowy Urząd Pracy w Chodzieży",
+          "url": "https://chodziez.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-2026?p_r_p_assetEntryId=61054729",
+          "added_at": "2026-03-24 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "glubczyce.praca.gov.pl",
+      "nabor_od": "2026-04-21",
+      "nabor_do": "2026-04-27",
+      "our_records": [
+        {
+          "host": "glubczyce.praca.gov.pl",
+          "nabor_od": "2026-04-21",
+          "nabor_do": "2026-04-27",
+          "woj": "opolskie",
+          "siedziba": "Głubczyce",
+          "powiat": "głubczycki",
+          "url": "https://glubczyce.praca.gov.pl/strona-glowna/-/asset_publisher/tHMAbOn1SjW1/content/informacja-nowe-zasady-przyznawania-kfs-skopiuj-?p_r_p_assetEntryId=61586207",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "glubczyce.praca.gov.pl",
+          "nabor_od": "2026-04-21",
+          "nabor_do": "2026-04-27",
+          "woj": "opolskie",
+          "operator": "Powiatowy Urząd Pracy w Głubczycach",
+          "url": "https://glubczyce.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-nowe-zasady-przyznawania-kfs-skopiuj-?p_r_p_assetEntryId=61586207",
+          "added_at": "2026-04-03 13:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "gniezno.praca.gov.pl",
+      "nabor_od": "2026-04-09",
+      "nabor_do": "2026-04-15",
+      "our_records": [
+        {
+          "host": "gniezno.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-15",
+          "woj": "wielkopolskie",
+          "siedziba": "Gniezno",
+          "powiat": "gnieźnieński",
+          "url": "https://gniezno.praca.gov.pl/strona-glowna/-/asset_publisher/nIFMwHVrs5Bg/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-na-wspomaganie-podmiotow-inwestujacych-w-ksztalcenie-ustawiczne-osob-pracujacych?p_r_p_assetEntryId=61058642",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "gniezno.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-15",
+          "woj": "wielkopolskie",
+          "operator": "Powiatowy Urząd Pracy w Gnieźnie",
+          "url": "https://gniezno.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-na-wspomaganie-podmiotow-inwestujacych-w-ksztalcenie-ustawiczne-osob-pracujacych?p_r_p_assetEntryId=61058642",
+          "added_at": "2026-03-25 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "gora.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-15",
+      "our_records": [
+        {
+          "host": "gora.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-15",
+          "woj": "dolnośląskie",
+          "siedziba": "Góra",
+          "powiat": "górowski",
+          "url": "https://gora.praca.gov.pl/-/3125381-krajowy-fundusz-szkoleniowy-dokumenty-do-pobrania?inheritRedirect=true&redirect=%2F-%2Fnabor-wnioskow-z-krajowego-funduszu-szkoleniowego-08.04.2026-r.-15.04.2026-r.-",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "gora.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-15",
+          "woj": "dolnośląskie",
+          "operator": "Powiatowy Urząd Pracy w Górze",
+          "url": "https://gora.praca.gov.pl/-/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-08.04.2026-r.-15.04.2026-r.-",
+          "added_at": "2026-03-24 13:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "gorlice.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "our_records": [
+        {
+          "host": "gorlice.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "małopolskie",
+          "siedziba": "Gorlice",
+          "powiat": "gorlicki",
+          "url": "https://gorlice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-z-kfs?p_r_p_assetEntryId=61559723",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "gorlice.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "małopolskie",
+          "operator": "Powiatowy Urząd Pracy w Gorlicach",
+          "url": "http://gorlice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-z-kfs?p_r_p_assetEntryId=61559723",
+          "added_at": "2026-04-03 09:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "gostynin.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-13",
+      "our_records": [
+        {
+          "host": "gostynin.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "mazowieckie",
+          "siedziba": "Gostynin",
+          "powiat": "gostyniński",
+          "url": "https://gostynin.praca.gov.pl/strona-glowna/-/asset_publisher/Do6EKQqmOwLc/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-2026?p_r_p_assetEntryId=60981963",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "gostynin.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "mazowieckie",
+          "operator": "Powiatowy Urząd Pracy w Gostyninie",
+          "url": "https://gostynin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-2026?p_r_p_assetEntryId=60981963",
+          "added_at": "2026-03-23 14:14",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "gupkrakow.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "gupkrakow.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "siedziba": "Kraków",
+          "powiat": "m. Kraków",
+          "url": "https://gupkrakow.praca.gov.pl/strona-glowna/-/asset_publisher/4TIYC2JvFF9a/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-1?p_r_p_assetEntryId=61180657",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "gupkrakow.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "operator": "Grodzki Urząd Pracy w Krakowie",
+          "url": "https://gupkrakow.praca.gov.pl/-/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-1",
+          "added_at": "2026-03-27 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "hrubieszow.praca.gov.pl",
+      "nabor_od": "2026-04-03",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "hrubieszow.praca.gov.pl",
+          "nabor_od": "2026-04-03",
+          "nabor_do": "2026-04-17",
+          "woj": "lubelskie",
+          "siedziba": "Hrubieszów",
+          "powiat": "hrubieszowski",
+          "url": "https://hrubieszow.praca.gov.pl/documents/1790481/0/Og%C5%82oszenie+o+I+naborze+wniosk%C3%B3w+o+przyznanie+%C5%9Brodk%C3%B3w+z+KFS+w+2026+roku+%285%29%285%29+%281%29.docx/41288f23-1646-12cb-3a0a-ce9c403690be?t=1775120785644",
+          "status": "active",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "hrubieszow.praca.gov.pl",
+          "nabor_od": "2026-04-03",
+          "nabor_do": "2026-04-17",
+          "woj": "lubelskie",
+          "operator": "Powiatowy Urząd Pracy w Hrubieszowie",
+          "url": "https://hrubieszow.praca.gov.pl/-/ogloszenie-o-i-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-na-ksztalcenie-ustawiczne-pracownikow-i-pracodawcow-w-2026-roku",
+          "added_at": "2026-03-19 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "jarocin.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "our_records": [
+        {
+          "host": "jarocin.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "wielkopolskie",
+          "siedziba": "Jarocin",
+          "powiat": "jarociński",
+          "url": "https://jarocin.praca.gov.pl/documents/2122840/61403805/Zasady+naboru+wniosk%C3%B3w+o+przyznanie+%C5%9Brodk%C3%B3w+z+KFS+na+finansowanie+koszt%C3%B3w+kszta%C5%82cenia+ustawicznego.pdf/a0347f14-9af3-0014-1a0d-c73f5d49d996?t=1774952438508",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "jarocin.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "wielkopolskie",
+          "operator": "Powiatowy Urząd Pracy w Jarocinie",
+          "url": "https://jarocin.praca.gov.pl/-/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-na-finansowanie-kosztow-ksztalcenia-ustawicznego",
+          "added_at": "2026-03-31 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "kamiennagora.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "our_records": [
+        {
+          "host": "kamiennagora.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "dolnośląskie",
+          "siedziba": "Kamienna Góra",
+          "powiat": "kamiennogórski",
+          "url": "https://kamiennagora.praca.gov.pl/documents/1717745/61105886/Og%C5%82oszenie+o+naborze+wniosk%C3%B3w+KFS+2026.pdf/1e497afb-9ea8-ad67-3a91-9f76c4ed8bef?t=1774444070741",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "kamiennagora.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "dolnośląskie",
+          "operator": "Powiatowy Urząd Pracy w Kamiennej Górze",
+          "url": "https://kamiennagora.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/ncxEicTXv58N/content/ogloszenie-o-naborze-wnioskow-krajowego-funduszu-szkoleniowego-2026-r.?p_r_p_assetEntryId=61105693",
+          "added_at": "2026-03-25 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "kedzierzyn-kozle.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-24",
+      "our_records": [
+        {
+          "host": "kedzierzyn-kozle.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "opolskie",
+          "siedziba": "Kędzierzyn-Koźle",
+          "powiat": "kędzierzyńsko-kozielski",
+          "url": "https://kedzierzyn-kozle.praca.gov.pl/dla-pracodawcow-i-przedsiebiorcow/podnoszenie-kompetencji-i-kwalifikacji-pracownikow-i-kandydatow-do-pracy/krajowy-fundusz-szkoleniowy",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "kedzierzyn-kozle.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-24",
+          "woj": "opolskie",
+          "operator": "Powiatowy Urząd Pracy w Kędzierzynie-Koźlu",
+          "url": "https://kedzierzyn-kozle.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/powiatowy-urzad-pracy-oglasza-nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-?p_r_p_assetEntryId=61187911",
+          "added_at": "2026-03-27 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "kepno.praca.gov.pl",
+      "nabor_od": "2026-04-02",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "kepno.praca.gov.pl",
+          "nabor_od": "2026-04-02",
+          "nabor_do": "2026-04-17",
+          "woj": "wielkopolskie",
+          "siedziba": "Kępno",
+          "powiat": "kępiński",
+          "url": "https://kepno.praca.gov.pl/documents/7691453/60753348/Nab%C3%B3r+KFS+2026.pdf/104fab83-db1b-a09f-8f20-a84a6eccca2f?t=1773838268376",
+          "status": "active",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "kepno.praca.gov.pl",
+          "nabor_od": "2026-04-02",
+          "nabor_do": "2026-04-17",
+          "woj": "wielkopolskie",
+          "operator": "Powiatowy Urząd Pracy w Kępnie",
+          "url": "https://kepno.praca.gov.pl/-/nabor-wnioskow-w-ramach-rezerwy-srodkow-kfs-skopiuj-2-",
+          "added_at": "2026-03-19 09:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "klodzko.praca.gov.pl",
+      "nabor_od": "2026-04-15",
+      "nabor_do": "2026-04-21",
+      "our_records": [
+        {
+          "host": "klodzko.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-21",
+          "woj": "dolnośląskie",
+          "siedziba": "Kłodzko",
+          "powiat": "kłodzki",
+          "url": "https://klodzko.praca.gov.pl/-/nabor-wnioskow-kfs-2026-1",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "klodzko.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-21",
+          "woj": "dolnośląskie",
+          "operator": "Powiatowy Urząd Pracy w Kłodzku",
+          "url": "https://klodzko.praca.gov.pl/-/14613337-ogloszenie-o-naborze-wnioskow-pracodawcow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego",
+          "added_at": "2026-03-31 16:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "kolno.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-14",
+      "our_records": [
+        {
+          "host": "kolno.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "podlaskie",
+          "siedziba": "Kolno",
+          "powiat": "kolneński",
+          "url": "https://kolno.praca.gov.pl/strona-glowna/-/asset_publisher/nOHz6m0qxXO9/content/nabor-wnioskow-kfs-od-08.04.2026-r.-do-14.04.2026-r.?p_r_p_assetEntryId=61004503",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "kolno.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "podlaskie",
+          "operator": "Powiatowy Urząd Pracy w Kolnie",
+          "url": "https://kolno.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-kfs-od-08.04.2026-r.-do-14.04.2026-r.?p_r_p_assetEntryId=61004503",
+          "added_at": "2026-03-23 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "lodz-wschod.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-14",
+      "our_records": [
+        {
+          "host": "lodz-wschod.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "łódzkie",
+          "siedziba": "Łódź-Wschód",
+          "powiat": "łódzki wschodni",
+          "url": "https://lodz-wschod.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-krajowy-fundusz-szkoleniowy-skopiuj-2-?p_r_p_assetEntryId=60977890",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "lodz-wschod.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "łódzkie",
+          "operator": "Powiatowy Urząd Pracy Łódź-Wschód",
+          "url": "https://lodz-wschod.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-krajowy-fundusz-szkoleniowy-skopiuj-2-?p_r_p_assetEntryId=60977890",
+          "added_at": "2026-03-23 14:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "lubartow.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-27",
+      "our_records": [
+        {
+          "host": "lubartow.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-27",
+          "woj": "lubelskie",
+          "siedziba": "Lubartów",
+          "powiat": "lubartowski",
+          "url": "https://lubartow.praca.gov.pl/strona-glowna/-/asset_publisher/dGLuYhC2Jkhz/content/i-nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61543146",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "lubartow.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-27",
+          "woj": "lubelskie",
+          "operator": "Powiatowy Urząd Pracy w Lubartowie",
+          "url": "https://lubartow.praca.gov.pl/-/i-nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego",
+          "added_at": "2026-04-02 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "miechow.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "miechow.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "siedziba": "Miechów",
+          "powiat": "miechowski",
+          "url": "https://miechow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61100775",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "miechow.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "operator": "Powiatowy Urząd Pracy w Miechowie",
+          "url": "https://miechow.praca.gov.pl/strona-glowna/-/asset_publisher/Z1hNv1v2s18y/content/ogloszenie-o-naborze-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61100775",
+          "added_at": "2026-03-25 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "miedzychod.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-11",
+      "our_records": [
+        {
+          "host": "miedzychod.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-11",
+          "woj": "wielkopolskie",
+          "siedziba": "Międzychód",
+          "powiat": "międzychodzki",
+          "url": "https://miedzychod.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-3?p_r_p_assetEntryId=60837493",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "miedzychod.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-11",
+          "woj": "wielkopolskie",
+          "operator": "Powiatowy Urząd Pracy w Międzychodzie",
+          "url": "https://miedzychod.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego-3?p_r_p_assetEntryId=60837493",
+          "added_at": "2026-03-19 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "milicz.praca.gov.pl",
+      "nabor_od": "2026-04-16",
+      "nabor_do": "2026-04-22",
+      "our_records": [
+        {
+          "host": "milicz.praca.gov.pl",
+          "nabor_od": "2026-04-16",
+          "nabor_do": "2026-04-22",
+          "woj": "dolnośląskie",
+          "siedziba": "Milicz",
+          "powiat": "milicki",
+          "url": "https://milicz.praca.gov.pl/documents/1717800/61392866/Og%C5%82oszenie+o+naborze+wniosk%C3%B3w+KFS.docx/56ef7635-e51a-039f-28a0-86cefd22094f?t=1774960821687",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "milicz.praca.gov.pl",
+          "nabor_od": "2026-04-16",
+          "nabor_do": "2026-04-22",
+          "woj": "dolnośląskie",
+          "operator": "Powiatowy Urząd Pracy w Miliczu",
+          "url": "https://milicz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=61397138",
+          "added_at": "2026-03-31 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "muplublin.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-13",
+      "our_records": [
+        {
+          "host": "muplublin.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "lubelskie",
+          "siedziba": "Lublin",
+          "powiat": "m. Lublin",
+          "url": "https://muplublin.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=60884156",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "muplublin.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "lubelskie",
+          "operator": "Miejski Urząd Pracy w Lublinie",
+          "url": "https://muplublin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=60884156",
+          "added_at": "2026-03-20 14:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "myslenice.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "myslenice.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "siedziba": "Myślenice",
+          "powiat": "myślenicki",
+          "url": "https://myslenice.praca.gov.pl/documents/1842374/0/nab%C3%B3r+7-17.04.2026.docx/2a8e6096-c64c-a8ef-b888-132d83347369?t=1774352476126",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "myslenice.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "operator": "Powiatowy Urząd Pracy w Myślenicach",
+          "url": "https://myslenice.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-kosztow-ksztalcenia-ustawicznego-ze-srodkow-krajowego-funduszu-szkoleniowego",
+          "added_at": "2026-03-23 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "myslowice.praca.gov.pl",
+      "nabor_od": "2026-04-09",
+      "nabor_do": "2026-04-16",
+      "our_records": [
+        {
+          "host": "myslowice.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-16",
+          "woj": "śląskie",
+          "siedziba": "Mysłowice",
+          "powiat": "m. Mysłowice",
+          "url": "https://myslowice.praca.gov.pl/dla-pracodawcow-i-przedsiebiorcow/podnoszenie-kompetencji-i-kwalifikacji-pracownikow-i-kandydatow-do-pracy/krajowy-fundusz-szkoleniowy/-/asset_publisher/kfQIA8OcInMo/content/55453-krajowy-fundusz-szkoleniowy/10240",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "myslowice.praca.gov.pl",
+          "nabor_od": "2026-04-09",
+          "nabor_do": "2026-04-16",
+          "woj": "śląskie",
+          "operator": "Powiatowy Urząd Pracy w Mysłowicach",
+          "url": "https://myslowice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-dofinansowanie-ksztalcenia-ustawicznego-kfs?p_r_p_assetEntryId=61029321",
+          "added_at": "2026-03-24 13:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "olkusz.praca.gov.pl",
+      "nabor_od": "2026-04-16",
+      "nabor_do": "2026-04-23",
+      "our_records": [
+        {
+          "host": "olkusz.praca.gov.pl",
+          "nabor_od": "2026-04-16",
+          "nabor_do": "2026-04-23",
+          "woj": "małopolskie",
+          "siedziba": "Olkusz",
+          "powiat": "olkuski",
+          "url": "https://olkusz.praca.gov.pl/documents/1842404/56300170/Nab%C3%B3r+wniosk%C3%B3w+o+przyznanie+%C5%9Brodk%C3%B3w+Krajowego+Funduszu+Szkoleniowego.pdf/94331be8-1bd0-5b31-0e0b-32b9e21049a9?t=1774946172931",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "olkusz.praca.gov.pl",
+          "nabor_od": "2026-04-16",
+          "nabor_do": "2026-04-23",
+          "woj": "małopolskie",
+          "operator": "Powiatowy Urząd Pracy w Olkuszu",
+          "url": "https://olkusz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61391401",
+          "added_at": "2026-03-31 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "parczew.praca.gov.pl",
+      "nabor_od": "2026-04-02",
+      "nabor_do": "2026-04-09",
+      "our_records": [
+        {
+          "host": "parczew.praca.gov.pl",
+          "nabor_od": "2026-04-02",
+          "nabor_do": "2026-04-09",
+          "woj": "lubelskie",
+          "siedziba": "Parczew",
+          "powiat": "parczewski",
+          "url": "https://parczew.praca.gov.pl/documents/1790588/0/Zasady+naboru+i+kryteria+brane+pod+uwag%C4%99+przy+rozpatrywaniu+wniosk%C3%B3w.pdf/26c07b4e-8577-eb5b-7ac2-74a05e10d9cd?t=1773917847951",
+          "status": "active",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "parczew.praca.gov.pl",
+          "nabor_od": "2026-04-02",
+          "nabor_do": "2026-04-09",
+          "woj": "lubelskie",
+          "operator": "Powiatowy Urząd Pracy w Parczewie",
+          "url": "https://parczew.praca.gov.pl/-/i-nabor-wnioskow-o-dofinansowanie-ksztalcenia-ze-srodkow-kfs",
+          "added_at": "2026-03-19 09:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "piaseczno.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "piaseczno.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "mazowieckie",
+          "siedziba": "Piaseczno",
+          "powiat": "piaseczyński",
+          "url": "https://piaseczno.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/krajowy-fundusz-szkoleniowy-nabor-wnioskow?p_r_p_assetEntryId=60750263",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "piaseczno.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "mazowieckie",
+          "operator": "Powiatowy Urząd Pracy w Piasecznie",
+          "url": "https://piaseczno.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/krajowy-fundusz-szkoleniowy-nabor-wnioskow?p_r_p_assetEntryId=60750263",
+          "added_at": "2026-03-18 14:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "pila.praca.gov.pl",
+      "nabor_od": "2026-04-20",
+      "nabor_do": "2026-04-27",
+      "our_records": [
+        {
+          "host": "pila.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-27",
+          "woj": "wielkopolskie",
+          "siedziba": "Piła",
+          "powiat": "pilski",
+          "url": "https://pila.praca.gov.pl/informacje-kfs",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "pila.praca.gov.pl",
+          "nabor_od": "2026-04-20",
+          "nabor_do": "2026-04-27",
+          "woj": "wielkopolskie",
+          "operator": "Powiatowy Urząd Pracy w Pile",
+          "url": "https://pila.praca.gov.pl/strona-glowna/-/asset_publisher/pNYLZyW8j2Lg/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=61453337",
+          "added_at": "2026-04-01 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "raciborz.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "raciborz.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "śląskie",
+          "siedziba": "Racibórz",
+          "powiat": "raciborski",
+          "url": "https://raciborz.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-2026-1",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "raciborz.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "śląskie",
+          "operator": "Powiatowy Urząd Pracy w Raciborzu",
+          "url": "https://raciborz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-2026-1?p_r_p_assetEntryId=61162968",
+          "added_at": "2026-03-27 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "radom.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "radom.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "mazowieckie",
+          "siedziba": "Radom",
+          "powiat": "radomski",
+          "url": "https://radom.praca.gov.pl/kfs-2026/-/related_assets/HYO3zCVRzPd9/content/id/43732788/pop_up?_com_liferay_asset_publisher_web_portlet_RelatedAssetsPortlet_INSTANCE_HYO3zCVRzPd9_languageId=pl_PL&_com_liferay_asset_publisher_web_portlet_RelatedAssetsPortlet_INSTANCE_HYO3zCVRzPd9_viewMode=print",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        },
+        {
+          "host": "radom.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "mazowieckie",
+          "siedziba": "Radom",
+          "powiat": "radomski",
+          "url": "https://radom.praca.gov.pl/-/nabor-wnioskow-kfs-2026",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "radom.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "mazowieckie",
+          "operator": "Powiatowy Urząd Pracy w Radomiu",
+          "url": "https://radom.praca.gov.pl/-/nabor-wnioskow-kfs-2026",
+          "added_at": "2026-03-27 15:00",
+          "barometr": "WOJ POW MST"
+        }
+      ]
+    },
+    {
+      "host": "radomsko.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "radomsko.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "łódzkie",
+          "siedziba": "Radomsko",
+          "powiat": "radomszczański",
+          "url": "https://radomsko.praca.gov.pl/-/2613334-dofinansowanie-ksztalcenia-ustawicznego-pracownikow-i-pracodawcow-ze-srodkow-krajowego-funduszu-szkoleniowego",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "radomsko.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "łódzkie",
+          "operator": "Powiatowy Urząd Pracy w Radomsku",
+          "url": "https://radomsko.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego-osob-pracujacych",
+          "added_at": "2026-03-25 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "radziejow.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-13",
+      "our_records": [
+        {
+          "host": "radziejow.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "kujawsko-pomorskie",
+          "siedziba": "Radziejów",
+          "powiat": "radziejowski",
+          "url": "https://radziejow.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/ogloszenie-o-naborze-w-ramach-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=60999854",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "radziejow.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "kujawsko-pomorskie",
+          "operator": "Powiatowy Urząd Pracy w Radziejowie",
+          "url": "https://radziejow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-w-ramach-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=60999854",
+          "added_at": "2026-03-23 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "ropczyce.praca.gov.pl",
+      "nabor_od": "2026-04-10",
+      "nabor_do": "2026-04-16",
+      "our_records": [
+        {
+          "host": "ropczyce.praca.gov.pl",
+          "nabor_od": "2026-04-10",
+          "nabor_do": "2026-04-16",
+          "woj": "podkarpackie",
+          "siedziba": "Ropczyce",
+          "powiat": "ropczycko-sędziszowski",
+          "url": "https://ropczyce.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-finansowanie-kosztow-ksztalcenia-ustawicznego-ze-srodkow-krajowego-funduszu-szkoleniowego-dodatkowe-informacje-dla-podmiotow-zainteresowanych-zlozeniem-wniosku.?p_r_p_assetEntryId=61145293",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "ropczyce.praca.gov.pl",
+          "nabor_od": "2026-04-10",
+          "nabor_do": "2026-04-16",
+          "woj": "podkarpackie",
+          "operator": "Powiatowy Urząd Pracy w Ropczycach",
+          "url": "https://ropczyce.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-finansowanie-kosztow-ksztalcenia-ustawicznego-ze-srodkow-krajowego-funduszu-szkoleniowego-zostanie-przeprowadzony-od-dnia-10.04.2026r.-do-dnia-16.04.2026r.?p_r_p_assetEntryId=61104071",
+          "added_at": "2026-03-25 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "sepolnokrajenskie.praca.gov.pl",
+      "nabor_od": "2026-04-03",
+      "nabor_do": "2026-04-10",
+      "our_records": [
+        {
+          "host": "sepolnokrajenskie.praca.gov.pl",
+          "nabor_od": "2026-04-03",
+          "nabor_do": "2026-04-10",
+          "woj": "kujawsko-pomorskie",
+          "siedziba": "Sępólno Krajeńskie",
+          "powiat": "sępoleński",
+          "url": "https://sepolnokrajenskie.praca.gov.pl/dla-pracodawcow-i-przedsiebiorcow/podnoszenie-kompetencji-i-kwalifikacji-pracownikow-i-kandydatow-do-pracy/krajowy-fundusz-szkoleniowy/-/asset_publisher/kfQIA8OcInMo/content/55453-krajowy-fundusz-szkoleniowy/10240",
+          "status": "active",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "sepolnokrajenskie.praca.gov.pl",
+          "nabor_od": "2026-04-03",
+          "nabor_do": "2026-04-10",
+          "woj": "kujawsko-pomorskie",
+          "operator": "Powiatowy Urząd Pracy w Sępólnie Krajeńskim",
+          "url": "https://sepolnokrajenskie.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego",
+          "added_at": "2026-03-19 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "slubice.praca.gov.pl",
+      "nabor_od": "2026-04-14",
+      "nabor_do": "2026-04-23",
+      "our_records": [
+        {
+          "host": "slubice.praca.gov.pl",
+          "nabor_od": "2026-04-14",
+          "nabor_do": "2026-04-23",
+          "woj": "lubuskie",
+          "siedziba": "Słubice",
+          "powiat": "słubicki",
+          "url": "https://slubice.praca.gov.pl/krajowy-fundusz-szkoleniowy",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "slubice.praca.gov.pl",
+          "nabor_od": "2026-04-14",
+          "nabor_do": "2026-04-23",
+          "woj": "lubuskie",
+          "operator": "Powiatowy Urząd Pracy w Słubicach",
+          "url": "https://slubice.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61160274",
+          "added_at": "2026-03-30 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "srodawielkopolska.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-15",
+      "our_records": [
+        {
+          "host": "srodawielkopolska.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-15",
+          "woj": "wielkopolskie",
+          "siedziba": "Środa Wlkp.",
+          "powiat": "średzki",
+          "url": "https://srodawielkopolska.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-kfs-2026?p_r_p_assetEntryId=60903662&redirect=https%3A%2F%2Fsrodawielkopolska.praca.gov.pl%2Frynek-pracy%2Faktualnosci%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_8VCc6CLiHUaO%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "srodawielkopolska.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-15",
+          "woj": "wielkopolskie",
+          "operator": "Powiatowy Urząd Pracy w Środzie Wielkopolskiej",
+          "url": "https://srodawielkopolska.praca.gov.pl/rynek-pracy/aktualnosci",
+          "added_at": "2026-03-23 18:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "stalowawola.praca.gov.pl",
+      "nabor_od": "2026-04-17",
+      "nabor_do": "2026-04-23",
+      "our_records": [
+        {
+          "host": "stalowawola.praca.gov.pl",
+          "nabor_od": "2026-04-17",
+          "nabor_do": "2026-04-23",
+          "woj": "podkarpackie",
+          "siedziba": "Stalowa Wola",
+          "powiat": "stalowowolski",
+          "url": "https://stalowawola.praca.gov.pl/strona-glowna/-/asset_publisher/vsf5pKFkaew9/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-na-finansowanie-kosztow-ksztalcenia-ustawicznego-20260331?p_r_p_assetEntryId=61401406",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "stalowawola.praca.gov.pl",
+          "nabor_od": "2026-04-17",
+          "nabor_do": "2026-04-23",
+          "woj": "podkarpackie",
+          "operator": "Powiatowy Urząd Pracy w Stalowej Woli",
+          "url": "https://stalowawola.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-na-finansowanie-kosztow-ksztalcenia-ustawicznego-20260331",
+          "added_at": "2026-03-31 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "suchabeskidzka.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-13",
+      "our_records": [
+        {
+          "host": "suchabeskidzka.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "małopolskie",
+          "siedziba": "Sucha Beskidzka",
+          "powiat": "suski",
+          "url": "https://suchabeskidzka.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-w-ramach-krajowego-funduszu-szkoleniowego-1?p_r_p_assetEntryId=60894588",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "suchabeskidzka.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "małopolskie",
+          "operator": "Powiatowy Urząd Pracy w Suchej Beskidzkiej",
+          "url": "https://suchabeskidzka.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-w-ramach-krajowego-funduszu-szkoleniowego-1?p_r_p_assetEntryId=60894588",
+          "added_at": "2026-03-20 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "swidwin.praca.gov.pl",
+      "nabor_od": "2026-04-17",
+      "nabor_do": "2026-04-30",
+      "our_records": [
+        {
+          "host": "swidwin.praca.gov.pl",
+          "nabor_od": "2026-04-17",
+          "nabor_do": "2026-04-30",
+          "woj": "zachodniopomorskie",
+          "siedziba": "Świdwin",
+          "powiat": "świdwiński",
+          "url": "https://swidwin.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego-w-2026-r.?p_r_p_assetEntryId=61524640",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "swidwin.praca.gov.pl",
+          "nabor_od": "2026-04-17",
+          "nabor_do": "2026-04-30",
+          "woj": "zachodniopomorskie",
+          "operator": "Powiatowy Urząd Pracy w Świdwinie",
+          "url": "https://swidwin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego-w-2026-r.?p_r_p_assetEntryId=61524640",
+          "added_at": "2026-04-02 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "swinoujscie.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "swinoujscie.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "zachodniopomorskie",
+          "siedziba": "Świnoujście",
+          "powiat": "m. Świnoujście",
+          "url": "https://swinoujscie.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/ruszamy-z-naborem-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61129873",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "swinoujscie.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "zachodniopomorskie",
+          "operator": "Powiatowy Urząd Pracy w Świnoujściu",
+          "url": "https://swinoujscie.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ruszamy-z-naborem-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61129873",
+          "added_at": "2026-03-26 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "szydlowiec.praca.gov.pl",
+      "nabor_od": "2026-04-15",
+      "nabor_do": "2026-04-22",
+      "our_records": [
+        {
+          "host": "szydlowiec.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-22",
+          "woj": "mazowieckie",
+          "siedziba": "Szydłowiec",
+          "powiat": "szydłowiecki",
+          "url": "https://szydlowiec.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/i-nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61299678",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "szydlowiec.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-22",
+          "woj": "mazowieckie",
+          "operator": "Powiatowy Urząd Pracy w Szydłowcu",
+          "url": "https://szydlowiec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/i-nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61299678",
+          "added_at": "2026-03-31 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "tychy.praca.gov.pl",
+      "nabor_od": "2026-04-08",
+      "nabor_do": "2026-04-14",
+      "our_records": [
+        {
+          "host": "tychy.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "śląskie",
+          "siedziba": "Tychy",
+          "powiat": "m. Tychy",
+          "url": "https://tychy.praca.gov.pl/dla-pracodawcow-i-przedsiebiorcow/podnoszenie-kompetencji-i-kwalifikacji-pracownikow-i-kandydatow-do-pracy/krajowy-fundusz-szkoleniowy/-/asset_publisher/kfQIA8OcInMo/content/55453-krajowy-fundusz-szkoleniowy/10240",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "tychy.praca.gov.pl",
+          "nabor_od": "2026-04-08",
+          "nabor_do": "2026-04-14",
+          "woj": "śląskie",
+          "operator": "Powiatowy Urząd Pracy w Tychach",
+          "url": "https://tychy.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-srodkow-z-krajowego-funduszu-szkoleniowego",
+          "added_at": "2026-03-25 08:00",
+          "barometr": "WOJ POW MST"
+        }
+      ]
+    },
+    {
+      "host": "uppkrakow.praca.gov.pl",
+      "nabor_od": "2026-04-15",
+      "nabor_do": "2026-04-30",
+      "our_records": [
+        {
+          "host": "uppkrakow.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-30",
+          "woj": "małopolskie",
+          "siedziba": "Kraków",
+          "powiat": "krakowski",
+          "url": "https://uppkrakow.praca.gov.pl/strona-glowna-uppk/-/asset_publisher/hABn1oigaXOY/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-psz-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego-na-rok-2026-i-nabor-dla-wnioskow-spelniajacych-priorytety-kfs-2026?p_r_p_assetEntryId=61457748",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "uppkrakow.praca.gov.pl",
+          "nabor_od": "2026-04-15",
+          "nabor_do": "2026-04-30",
+          "woj": "małopolskie",
+          "operator": "Urząd Pracy Powiatu Krakowskiego",
+          "url": "https://uppkrakow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-psz-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego-na-rok-2026-i-nabor-dla-wnioskow-spelniajacych-priorytety-kfs-2026?p_r_p_assetEntryId=61457748",
+          "added_at": "2026-04-01 12:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "walcz.praca.gov.pl",
+      "nabor_od": "2026-04-16",
+      "nabor_do": "2026-04-22",
+      "our_records": [
+        {
+          "host": "walcz.praca.gov.pl",
+          "nabor_od": "2026-04-16",
+          "nabor_do": "2026-04-22",
+          "woj": "zachodniopomorskie",
+          "siedziba": "Wałcz",
+          "powiat": "wałecki",
+          "url": "https://walcz.praca.gov.pl/strona-glowna/-/asset_publisher/Wm4EQdh85fiV/content/ogloszenie-o-naborze-wnioskow-na-finansowanie-ksztalcenia-ustawicznego-ze-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61419249",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "walcz.praca.gov.pl",
+          "nabor_od": "2026-04-16",
+          "nabor_do": "2026-04-22",
+          "woj": "zachodniopomorskie",
+          "operator": "Powiatowy Urząd Pracy w Wałczu",
+          "url": "https://walcz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ogloszenie-o-naborze-wnioskow-na-finansowanie-ksztalcenia-ustawicznego-ze-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61419249",
+          "added_at": "2026-04-01 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "wieliczka.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "wieliczka.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "siedziba": "Wieliczka",
+          "powiat": "wielicki",
+          "url": "https://wieliczka.praca.gov.pl/strona-glowna/-/asset_publisher/bz0iBcWYrOrb/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61187373",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "wieliczka.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "małopolskie",
+          "operator": "Powiatowy Urząd Pracy w Wieliczce",
+          "url": "https://wieliczka.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=61187373",
+          "added_at": "2026-03-18 08:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "wschowa.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "wschowa.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "lubuskie",
+          "siedziba": "Wschowa",
+          "powiat": "wschowski",
+          "url": "https://wschowa.praca.gov.pl/documents/1833764/33578010/Informacje+o+planowanym+naborze+wniosk%C3%B3w+o+%C5%9Brodki+KFS+w+2026+r..docx/90c944df-482a-f9cc-f6de-3fbf76fd9e35?t=1773994222315",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "wschowa.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "lubuskie",
+          "operator": "Powiatowy Urząd Pracy we Wschowie",
+          "url": "https://wschowa.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-z-krajowego-funduszu-szkoleniowego?p_r_p_assetEntryId=60879411",
+          "added_at": "2026-03-20 14:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "zabkowiceslaskie.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-14",
+      "our_records": [
+        {
+          "host": "zabkowiceslaskie.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-14",
+          "woj": "dolnośląskie",
+          "siedziba": "Ząbkowice Śl.",
+          "powiat": "ząbkowicki",
+          "url": "https://zabkowiceslaskie.praca.gov.pl/documents/1717503/60872444/Nab%C3%B3r_07_14_IV_2026.pdf/a6c734ce-8395-c80a-2981-b67dc8e94c34?t=1774008638036",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "zabkowiceslaskie.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-14",
+          "woj": "dolnośląskie",
+          "operator": "Powiatowy Urząd Pracy w Ząbkowicach Śląskich",
+          "url": "https://zabkowiceslaskie.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-",
+          "added_at": "2026-03-20 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "zgorzelec.praca.gov.pl",
+      "nabor_od": "2026-04-07",
+      "nabor_do": "2026-04-13",
+      "our_records": [
+        {
+          "host": "zgorzelec.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "dolnośląskie",
+          "siedziba": "Zgorzelec",
+          "powiat": "zgorzelecki",
+          "url": "https://zgorzelec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/pierwszy-w-2026-r.-nabor-wnioskow-kfs?p_r_p_resetCur=false&p_r_p_assetEntryId=60887165",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "zgorzelec.praca.gov.pl",
+          "nabor_od": "2026-04-07",
+          "nabor_do": "2026-04-13",
+          "woj": "dolnośląskie",
+          "operator": "Powiatowy Urząd Pracy w Zgorzelcu",
+          "url": "https://zgorzelec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/pierwszy-w-2026-r.-nabor-wnioskow-kfs?p_r_p_assetEntryId=60887165",
+          "added_at": "2026-03-20 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    },
+    {
+      "host": "zielonagora.praca.gov.pl",
+      "nabor_od": "2026-04-13",
+      "nabor_do": "2026-04-17",
+      "our_records": [
+        {
+          "host": "zielonagora.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "lubuskie",
+          "siedziba": "Zielona Góra",
+          "powiat": "m. Zielona Góra",
+          "url": "https://zielonagora.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-1?p_r_p_assetEntryId=61196565",
+          "status": "upcoming",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "zielonagora.praca.gov.pl",
+          "nabor_od": "2026-04-13",
+          "nabor_do": "2026-04-17",
+          "woj": "lubuskie",
+          "operator": "Powiatowy Urząd Pracy w Zielonej Górze",
+          "url": "https://zielonagora.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-1?p_r_p_assetEntryId=61196565",
+          "added_at": "2026-03-27 12:00",
+          "barometr": "WOJ POW MST"
+        }
+      ]
+    },
+    {
+      "host": "znin.praca.gov.pl",
+      "nabor_od": "2026-03-31",
+      "nabor_do": "2026-04-09",
+      "our_records": [
+        {
+          "host": "znin.praca.gov.pl",
+          "nabor_od": "2026-03-31",
+          "nabor_do": "2026-04-09",
+          "woj": "kujawsko-pomorskie",
+          "siedziba": "Żnin",
+          "powiat": "żniński",
+          "url": "https://znin.praca.gov.pl/-/powiatowy-urzad-pracy-w-zninie-oglasza-nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego",
+          "status": "active",
+          "typ_naboru": "podstawowy"
+        }
+      ],
+      "reference_records": [
+        {
+          "host": "znin.praca.gov.pl",
+          "nabor_od": "2026-03-31",
+          "nabor_do": "2026-04-09",
+          "woj": "kujawsko-pomorskie",
+          "operator": "Powiatowy Urząd Pracy w Żninie",
+          "url": "https://znin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/powiatowy-urzad-pracy-w-zninie-oglasza-nabor-wnioskow-o-przyznanie-srodkow-krajowego-funduszu-szkoleniowego-kfs-na-finansowanie-kosztow-ksztalcenia-ustawicznego?p_r_p_assetEntryId=60550430",
+          "added_at": "2026-03-16 15:00",
+          "barometr": "WOJ POW"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "only_in_our_data": 18,
+    "only_in_reference": 25,
+    "shared_host_date_different_url": 57
+  }
+}

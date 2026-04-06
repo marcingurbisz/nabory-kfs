@@ -3,7 +3,9 @@
     ".mirror-state.json",
     "app.js",
     "data/nabory.json",
+    "data/sprawdznabory-diff.json",
     "index.html",
+    "sprawdznabory-diff.html",
     "styles.css"
   ]
 }
